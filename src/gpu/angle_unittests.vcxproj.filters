@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\preprocessor_tests">
+      <UniqueIdentifier>{632C9332-A0B2-BB90-4896-0AA600FCDB92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\compiler_tests">
+      <UniqueIdentifier>{47629FA2-A2F0-F652-6220-97FEBB2815C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party">
+      <UniqueIdentifier>{D6C6CEA7-AAD0-03AD-2394-AC6FCBF8A498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle">
+      <UniqueIdentifier>{2039F76D-4C9A-B8A0-444A-4766C6F6104A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests">
+      <UniqueIdentifier>{71685B5B-5DB1-D3F0-6DF4-FE19B5454C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\third_party\angle\tests\compiler_tests">
+      <UniqueIdentifier>{47629FA2-A2F0-F652-6220-97FEBB2815C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="angle_unittest_main.cc"/>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\char_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\comment_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\define_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\error_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\extension_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\identifier_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\if_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\input_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\location_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClInclude Include="..\third_party\angle\tests\preprocessor_tests\MockDiagnostics.h">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClInclude>
+    <ClInclude Include="..\third_party\angle\tests\preprocessor_tests\MockDirectiveHandler.h">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClInclude>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\number_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\operator_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\pragma_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\PreprocessorTest.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClInclude Include="..\third_party\angle\tests\preprocessor_tests\PreprocessorTest.h">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClInclude>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\space_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\token_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\preprocessor_tests\version_test.cpp">
+      <Filter>..\third_party\angle\tests\preprocessor_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\compiler_tests\ExpressionLimit_test.cpp">
+      <Filter>..\third_party\angle\tests\compiler_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\third_party\angle\tests\compiler_tests\VariablePacker_test.cpp">
+      <Filter>..\third_party\angle\tests\compiler_tests</Filter>
+    </ClCompile>
+    <None Include="gpu.gyp"/>
+  </ItemGroup>
+</Project>
